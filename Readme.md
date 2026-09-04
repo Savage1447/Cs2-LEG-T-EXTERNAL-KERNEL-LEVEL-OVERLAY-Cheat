@@ -16,4 +16,5 @@ Kernel-level external cheat source code for Counter-Strike 2. Fully open-source.
 - Encryption- XorStrings 
 
 https://github.com/JustasMasiulis/xorstr Update Retrieve the latest offsets from the CS2 Dumper and replace them in offsets.h. Last updated: 05.09.2026 Enjoy using it.
-Developer: https://github.com/astra-x64/Counter-Strike-2-Kernel-Externel-Cheat-Source.git
+**Developer:** 
+https://github.com/astra-x64/Counter-Strike-2-Kernel-Externel-Cheat-Source.git
